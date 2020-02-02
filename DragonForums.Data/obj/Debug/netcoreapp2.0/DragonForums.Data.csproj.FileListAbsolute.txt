@@ -1,0 +1,8 @@
+D:\.NET Development\DragonForums\DragonForums.Data\bin\Debug\netcoreapp2.0\DragonForums.Data.deps.json
+D:\.NET Development\DragonForums\DragonForums.Data\bin\Debug\netcoreapp2.0\DragonForums.Data.dll
+D:\.NET Development\DragonForums\DragonForums.Data\obj\Debug\netcoreapp2.0\DragonForums.Data.AssemblyInfoInputs.cache
+D:\.NET Development\DragonForums\DragonForums.Data\obj\Debug\netcoreapp2.0\DragonForums.Data.AssemblyInfo.cs
+D:\.NET Development\DragonForums\DragonForums.Data\obj\Debug\netcoreapp2.0\DragonForums.Data.csprojAssemblyReference.cache
+D:\.NET Development\DragonForums\DragonForums.Data\bin\Debug\netcoreapp2.0\DragonForums.Data.pdb
+D:\.NET Development\DragonForums\DragonForums.Data\obj\Debug\netcoreapp2.0\DragonForums.Data.dll
+D:\.NET Development\DragonForums\DragonForums.Data\obj\Debug\netcoreapp2.0\DragonForums.Data.pdb
